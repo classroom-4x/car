@@ -1,0 +1,18 @@
+{
+"companyName": "Mathias Geisler",
+"productName": "Car Drawing Game",
+"productVersion": "1",
+"dataUrl": "61876ce985f48eaed8e3b69b4d720fea.unityweb",
+"asmCodeUrl": "9885730531b0fa5b88836cc64994f21e.unityweb",
+"asmMemoryUrl": "29535bed6b2bfaef72d6126dd13ccaf9.unityweb",
+"asmFrameworkUrl": "923a0a0af0e69bf642ab772e790073c2.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.12f1"
+}
